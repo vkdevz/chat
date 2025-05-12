@@ -1,0 +1,228 @@
+{
+  "greetings": {
+    "hello": [
+      "Hi there! How can I help you today?",
+      "Hello! Nice to meet you. How can I assist you?",
+      "Hey! How's it going? What can I do for you?"
+    ],
+    "hi": [
+      "Hello! How can I help you today?",
+      "Hi there! What can I do for you?",
+      "Hey! How can I assist you?"
+    ],
+    "hey": [
+      "Hello! How can I help you today?",
+      "Hi there! What can I do for you?",
+      "Hey! How can I assist you?"
+    ]
+  },
+  "farewell": {
+    "bye": [
+      "Goodbye! Have a great day!",
+      "See you later! Take care!",
+      "Bye! Come back anytime!"
+    ],
+    "goodbye": [
+      "Goodbye! Have a great day!",
+      "See you later! Take care!",
+      "Bye! Come back anytime!"
+    ]
+  },
+  "gratitude": {
+    "thanks": [
+      "You're welcome!",
+      "Happy to help!",
+      "Anytime! Is there anything else you need?"
+    ],
+    "thank you": [
+      "You're welcome!",
+      "Happy to help!",
+      "Anytime! Is there anything else you need?"
+    ]
+  },
+  "mood": {
+    "how are you": [
+      "I'm doing great, thanks for asking! How can I assist you?",
+      "I'm wonderful! How can I help you today?",
+      "I'm fine, thank you! What can I do for you?"
+    ],
+    "how's it going": [
+      "Everything's going well! How can I help you?",
+      "Great! How can I assist you today?",
+      "All good! What can I do for you?"
+    ]
+  },
+  "help": {
+    "help": [
+      "I can help you with various topics. Just ask me anything!",
+      "I'm here to assist you. What would you like to know?",
+      "Feel free to ask me any questions. I'll do my best to help!"
+    ],
+    "what can you do": [
+      "I can chat with you, answer questions, and help with various topics. What would you like to know?",
+      "I'm a chatbot that can help you with information and conversation. What interests you?",
+      "I can assist you with different topics. Just let me know what you need!"
+    ]
+  },
+  "identity": {
+    "who are you": [
+      "I'm a friendly chatbot created to help and chat with you!",
+      "I'm your AI assistant, here to help and chat with you!",
+      "I'm a chatbot designed to assist and converse with you!"
+    ],
+    "what are you": [
+      "I'm an AI chatbot created to help and chat with you!",
+      "I'm a virtual assistant designed to assist and converse with you!",
+      "I'm a chatbot that can help you with various topics and chat!"
+    ]
+  },
+  "default": {
+    "unknown": [
+      "I'm not sure I understand. Could you please rephrase that?",
+      "I didn't quite catch that. Could you try asking in a different way?",
+      "I'm still learning. Could you please rephrase your question?"
+    ]
+  },
+  "symptoms": {
+    "fever": [
+      "Fever is a common symptom of infection. What temperature have you recorded?",
+      "A fever can indicate your body is fighting an illness. Have you experienced chills or sweating?",
+      "If your fever is above 103°F (39.4°C) or lasts more than three days, seek medical attention.",
+      "Fever in children under 3 months should be evaluated by a doctor immediately.",
+      "Always monitor other symptoms like rash, confusion, or difficulty breathing along with a fever."
+    ],
+    "chest pain": [
+      "Chest pain can range from mild to severe. Is the pain sharp, dull, or pressure-like?",
+      "If you're experiencing chest pain along with shortness of breath, dizziness, or arm pain, call emergency services immediately.",
+      "Chest pain may be caused by heart issues, acid reflux, or anxiety. Have you had this pain before?",
+      "Persistent or worsening chest pain should always be evaluated by a medical professional.",
+      "Please describe any activities or movements that make the chest pain better or worse."
+    ],
+    "shortness of breath": [
+      "Shortness of breath may signal a respiratory or cardiac issue. Are you also feeling dizzy or fatigued?",
+      "If you're struggling to breathe or your lips are turning blue, seek emergency medical help immediately.",
+      "Shortness of breath during exertion can be normal, but if it occurs at rest, it needs evaluation.",
+      "Are you experiencing coughing, wheezing, or chest tightness along with shortness of breath?",
+      "Have you been recently exposed to allergens, smoke, or exertion that could explain your symptoms?"
+    ]
+  },
+  "treatments": {
+    "cold remedies": [
+      "For common colds, rest, hydration, and over-the-counter meds like acetaminophen or ibuprofen can help.",
+      "Steam inhalation and saline nasal sprays may ease congestion during a cold.",
+      "There is no cure for the cold, but symptoms usually resolve within 7–10 days. Do you have a sore throat or cough?",
+      "Zinc lozenges and vitamin C supplements may slightly shorten the duration of a cold.",
+      "Avoid antibiotics for colds, as they are viral and not bacterial."
+    ],
+    "antibiotic use": [
+      "Antibiotics are only effective against bacterial infections, not viruses like the common cold.",
+      "Always complete the full course of antibiotics even if symptoms improve early.",
+      "Incorrect use of antibiotics can lead to resistance. Was this prescribed by a doctor?",
+      "Do not take leftover antibiotics or share them with others.",
+      "Consult a healthcare provider to confirm if an antibiotic is necessary for your condition."
+    ],
+    "side effects": [
+      "Common side effects of medications include nausea, drowsiness, or mild rash. What medication are you referring to?",
+      "If you're experiencing difficulty breathing, swelling, or severe rash, seek emergency care—this could be an allergic reaction.",
+      "Some side effects may resolve as your body adjusts to the medication.",
+      "Have you recently started or changed your dosage of any medication?",
+      "Let your doctor know about any new or unexpected symptoms after taking medication."
+    ]
+  },
+  "preventive care": {
+    "vaccines": [
+      "Vaccines help prevent serious diseases like influenza, COVID-19, and hepatitis. Are you up to date with your shots?",
+      "Adult vaccines may include tetanus boosters, shingles, and pneumococcal. Ask your doctor what's right for your age.",
+      "Children should follow the national immunization schedule recommended by pediatricians.",
+      "Flu shots are advised annually, especially for seniors, children, and those with chronic illness.",
+      "Do you need travel vaccines for an upcoming trip? Let me know your destination."
+    ],
+    "diet tips": [
+      "A balanced diet includes fruits, vegetables, whole grains, lean proteins, and healthy fats.",
+      "Limiting processed sugars and increasing fiber helps maintain good digestive health.",
+      "Hydration is key—aim for 2-3 liters of water a day, depending on your activity level.",
+      "Are you following any specific dietary restrictions or health goals?",
+      "Meal planning and moderation are helpful strategies for sustainable nutrition."
+    ]
+  },
+  "emergency": {
+    "stroke symptoms": [
+      "Signs of stroke include sudden weakness on one side, slurred speech, and confusion. Call emergency services immediately.",
+      "Use the FAST method: Face drooping, Arm weakness, Speech difficulty, Time to call emergency.",
+      "Acting quickly in stroke cases reduces the risk of permanent damage. When did the symptoms begin?",
+      "Loss of vision, balance issues, or severe headache may also indicate a stroke.",
+      "Get to the hospital immediately—every second counts during a stroke."
+    ],
+    "first aid cuts": [
+      "Clean the wound with water, apply pressure to stop bleeding, and use a sterile bandage.",
+      "For deep or large cuts, seek medical care. Do not remove embedded objects from the wound.",
+      "Use antiseptic ointments and keep the wound clean to prevent infection.",
+      "If the cut is bleeding excessively or doesn’t stop after 10 minutes, seek urgent care.",
+      "Tetanus shots may be needed depending on the wound and your vaccination history."
+    ]
+  },
+  "general health": {
+    "hydration": [
+      "Staying hydrated helps with digestion, skin health, and energy levels. Are you drinking enough water daily?",
+      "Dehydration can cause headaches, fatigue, and dizziness.",
+      "The average adult should drink at least 8 glasses of water a day, but this varies with activity level.",
+      "Try to replace sugary drinks with water or herbal teas.",
+      "Monitor your urine color—it should be light yellow if you're well hydrated."
+    ],
+    "sleep tips": [
+      "Aim for 7–9 hours of sleep per night. Do you have trouble falling or staying asleep?",
+      "Avoid screens at least 1 hour before bed and maintain a consistent sleep schedule.",
+      "Caffeine and heavy meals before bed can disrupt sleep quality.",
+      "Sleep is essential for immune function, memory, and mood regulation.",
+      "Would you like help creating a sleep hygiene routine?"
+    ]
+  },
+  "medications": {
+    "ibuprofen": [
+      "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used for pain, inflammation, and fever.",
+      "Take ibuprofen with food to reduce the risk of stomach upset.",
+      "Avoid ibuprofen if you have kidney issues or a history of ulcers unless advised by a doctor.",
+      "The typical adult dose is 200–400 mg every 4–6 hours. Do not exceed 1200 mg in 24 hours without supervision.",
+      "Let your provider know if you’re taking blood thinners or have any bleeding disorders."
+    ],
+    "drug interaction": [
+      "Some medications interact and can reduce effectiveness or cause side effects. Are you taking multiple prescriptions?",
+      "Always inform your doctor and pharmacist about all the medicines, supplements, or herbal products you use.",
+      "Avoid alcohol with medications that cause drowsiness or liver strain.",
+      "Common interactions include antibiotics with antacids, or antidepressants with NSAIDs.",
+      "Would you like help checking a specific drug interaction?"
+    ]
+  },
+  "mental health": {
+    "anxiety": [
+      "Anxiety is a common condition characterized by excessive worry, restlessness, and physical tension.",
+      "Deep breathing, mindfulness, and exercise may help reduce anxiety symptoms.",
+      "Persistent or severe anxiety may require therapy or medication. Have you spoken to a mental health professional?",
+      "Avoiding caffeine and maintaining a structured routine can help manage anxiety.",
+      "Would you like self-care strategies or professional referral information?"
+    ],
+    "depression": [
+      "Depression includes symptoms like sadness, fatigue, and lack of interest in daily activities.",
+      "Support from loved ones, therapy, and sometimes medication can help manage depression.",
+      "If you have thoughts of self-harm, please seek immediate help by contacting emergency services or a helpline.",
+      "You're not alone. Many people recover with the right support and treatment.",
+      "Would you like help finding local mental health resources?"
+    ]
+  },
+  "specialties": {
+    "dermatologist": [
+      "A dermatologist specializes in skin, hair, and nail conditions. Are you experiencing acne, rash, or hair loss?",
+      "See a dermatologist for issues like eczema, psoriasis, or suspicious moles.",
+      "They perform procedures like biopsies, laser therapy, and skin cancer screenings.",
+      "Do you need help locating a board-certified dermatologist in your area?",
+      "For chronic skin conditions, follow-up visits and lifestyle modifications are often needed."
+    ],
+    "cardiologist": [
+      "Cardiologists specialize in heart health. Do you experience chest pain, palpitations, or high blood pressure?",
+      "Heart-related symptoms like shortness of breath or swelling in legs also warrant a cardiology consult.",
+      "They may perform ECGs, echocardiograms, or stress tests to evaluate your heart.",
+      "Has your primary care provider recommended a referral?",
+      "Would you like to prepare questions before seeing a cardiologist?"
+    ]
+  }
+}
